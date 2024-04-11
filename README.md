@@ -34,13 +34,13 @@ Below is the BibTex for citing this snapshot of the respoitory.
 This repository provides data for the problem and scripts for the models.
 
 The main folders are 'data', 'scripts', and 'results'.
-- 'data': This folder includes minimum sum graph coloring data sets. The detailed description can be seen README.
-- 'scripts': This folder provides a running script.
-- 'results': This folder provides the results.
+- '[data](data)': This folder includes minimum sum graph coloring data sets.
+- '[scripts](scripts)': This folder provides a running script.
+- '[results](results)': This folder provides the results.
 
 ## Building
 
-This directory includes the scripts for generating and solving four models using Gurobi.
+This directory includes the [scripts](scripts) for generating and solving four models using Gurobi.
 
 The following packages should be installed before you run our model.
 
