@@ -31,7 +31,12 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-The goal of this software is to demonstrate the effect of cache optimization.
+This repository provides data for the problem and scripts for the models.
+
+The main folders are 'data', 'scripts', and 'results'.
+- 'data': This folder includes minimum sum graph coloring data sets. The detailed description can be seen README.
+- 'scripts': This folder provides a running script.
+- 'results': This folder provides the results.
 
 ## Building
 
